@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Trucks": {
+      "applicationId": "ptb7qkmST2G5cYz6Bh5JMZGIYeHJhMGBRJKzL00C"
+    },
+    "_default": {
+      "link": "Trucks"
+    }
+  }
+}
